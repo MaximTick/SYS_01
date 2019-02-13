@@ -1,0 +1,12 @@
+﻿  MyDDLA.cpp
+d:\study3course\6thsem\systemprogramming\labs\myddla\myddla\myddla.cpp(4): warning C4603: _CTR_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  d:\study3course\6thsem\systemprogramming\labs\myddla\myddla\myddla.cpp(4): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  d:\study3course\6thsem\systemprogramming\labs\myddla\myddla\myddla.cpp(7): note: использование предварительно скомпилированного заголовка
+d:\study3course\6thsem\systemprogramming\labs\myddla\myddla\myddla.cpp(5): warning C4603: _CTR_SECURE_NO_DEPRECATE: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  d:\study3course\6thsem\systemprogramming\labs\myddla\myddla\myddla.cpp(5): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  d:\study3course\6thsem\systemprogramming\labs\myddla\myddla\myddla.cpp(7): note: использование предварительно скомпилированного заголовка
+d:\study3course\6thsem\systemprogramming\labs\myddla\myddla\myddla.cpp(6): warning C4603: _CTR_NONSTDC_NO_DEPRECATE: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  d:\study3course\6thsem\systemprogramming\labs\myddla\myddla\myddla.cpp(6): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  d:\study3course\6thsem\systemprogramming\labs\myddla\myddla\myddla.cpp(7): note: использование предварительно скомпилированного заголовка
+     ╤ючфрхЄё  сшсышюЄхър D:\study3course\6thsem\SystemProgramming\Labs\MyDDLA\Debug\MyDDLA.lib ш юс·хъЄ D:\study3course\6thsem\SystemProgramming\Labs\MyDDLA\Debug\MyDDLA.exp
+  MyDDLA.vcxproj -> D:\study3course\6thsem\SystemProgramming\Labs\MyDDLA\Debug\MyDDLA.dll

@@ -1,0 +1,7 @@
+D:\study3course\6thsem\SystemProgramming\Labs\SYS_Sharp\SYS_Sharp\obj\Debug\SYS_Sharp.csprojAssemblyReference.cache
+D:\study3course\6thsem\SystemProgramming\Labs\SYS_Sharp\SYS_Sharp\obj\Debug\SYS_Sharp.csproj.CoreCompileInputs.cache
+D:\study3course\6thsem\SystemProgramming\Labs\SYS_Sharp\SYS_Sharp\bin\Debug\SYS_Sharp.exe.config
+D:\study3course\6thsem\SystemProgramming\Labs\SYS_Sharp\SYS_Sharp\bin\Debug\SYS_Sharp.exe
+D:\study3course\6thsem\SystemProgramming\Labs\SYS_Sharp\SYS_Sharp\bin\Debug\SYS_Sharp.pdb
+D:\study3course\6thsem\SystemProgramming\Labs\SYS_Sharp\SYS_Sharp\obj\Debug\SYS_Sharp.exe
+D:\study3course\6thsem\SystemProgramming\Labs\SYS_Sharp\SYS_Sharp\obj\Debug\SYS_Sharp.pdb
